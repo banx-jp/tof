@@ -1,4 +1,10 @@
 # Simulacra
+
+| a | b | c |
+| :---: | :---: | :---: |
+| Alyss | ![simu](/tof_icon/Simulacra/Simulacrum_Alyss_Awaken.webp) | ![simu](/tof_icon/Simulacra/Simulacrum_Alyss_Prototype.webp) |
+
+
 ## Alyss
 ![simu](/tof_icon/Simulacra/Simulacrum_Alyss_Awaken.webp)
 ![simu](/tof_icon/Simulacra/Simulacrum_Alyss_Prototype.webp)
