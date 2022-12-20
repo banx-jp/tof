@@ -2,4 +2,4 @@
 https://banx-jp.github.io/tof/index.html
 
 # Simulacra
-Simulacra.md
+https://github.com/banx-jp/tof/blob/main/Simulacra.md
