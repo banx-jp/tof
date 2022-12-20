@@ -35,6 +35,8 @@ https://banx-jp.github.io/tof/index.html
 
 ## Echo
 ![simu](/tof_icon/Simulacra/Simulacrum_Echo_Prototype.webp)
+
+## Ene
 ![simu](/tof_icon/Simulacra/Simulacrum_Ene_Prototype.webp)
 
 ## Fenrir
@@ -112,3 +114,5 @@ https://banx-jp.github.io/tof/index.html
 ![simu](/tof_icon/Simulacra/Simulacrum_Umi_Prototype.webp)
 
 ## Zero
+![simu](/tof_icon/Simulacra/Simulacrum_Zero_Awaken.webp)
+![simu](/tof_icon/Simulacra/Simulacrum_Zero_Prototype.webp)
