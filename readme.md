@@ -4,30 +4,3 @@ https://banx-jp.github.io/tof/index.html
 # Simulacra
 https://github.com/banx-jp/tof/blob/main/Simulacra.md
 
-
-Icon_Equipment_Elite_Combat_Engine.webp
-Icon_Equipment_Elite_Microreactor.webp
-Icon_Equipment_Elite_Tactics_Eyepiece.webp
-Icon_Equipment_Falcon_Combat_Engine.webp
-Icon_Equipment_Falcon_Microreactor.webp
-Icon_Equipment_Falcon_Tactics_Eyepiece.webp
-Icon_Equipment_Fortress_Combat_Engine.webp
-Icon_Equipment_Fortress_Combat_Engine_(Arc).webp
-Icon_Equipment_Fortress_Combat_Engine_(Burst).webp
-Icon_Equipment_Fortress_Combat_Engine_(Glaze).webp
-Icon_Equipment_Fortress_Combat_Engine_(Overload).webp
-Icon_Equipment_Fortress_Exoskeleton_(Arc).webp
-Icon_Equipment_Fortress_Exoskeleton_(Burst).webp
-Icon_Equipment_Fortress_Exoskeleton_(Glaze).webp
-Icon_Equipment_Fortress_Exoskeleton_(Overload).webp
-Icon_Equipment_Fortress_Microreactor.webp
-Icon_Equipment_Fortress_Microreactor_(Arc).webp
-Icon_Equipment_Fortress_Microreactor_(Burst).webp
-Icon_Equipment_Fortress_Microreactor_(Glaze).webp
-Icon_Equipment_Fortress_Microreactor_(Overload).webp
-Icon_Equipment_Fortress_Tactics_Eyepiece.webp
-Icon_Equipment_Fortress_Tactics_Eyepiece_(Arc).webp
-Icon_Equipment_Fortress_Tactics_Eyepiece_(Burst).webp
-Icon_Equipment_Fortress_Tactics_Eyepiece_(Glaze).webp
-Icon_Equipment_Fortress_Tactics_Eyepiece_(Overload).webp
-Icon_Equipment_Vanguard_Combat_Engine.webp
