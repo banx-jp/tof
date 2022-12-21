@@ -1,15 +1,17 @@
 # URL
 https://banx-jp.github.io/tof/index.html
 
-# Equipment.md
+# Markdown File's
+
+## Equipment.md
 https://github.com/banx-jp/tof/blob/main/Equipment.md
 
-# Shards.md
+## Shards.md
 https://github.com/banx-jp/tof/blob/main/Shards.md
 
-# Simulacra.md
+## Simulacra.md
 https://github.com/banx-jp/tof/blob/main/Simulacra.md
 
-# Weapons.md
+## Weapons.md
 
 https://github.com/banx-jp/tof/blob/main/Weapons.md
