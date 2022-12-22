@@ -1,17 +1,18 @@
 # URL
 https://banx-jp.github.io/tof/index.html
 
-# Markdown File's
+# アイコンリスト
 
-## Equipment.md
-https://github.com/banx-jp/tof/blob/main/iconlist/Equipment.md
-
-## Shards.md
-https://github.com/banx-jp/tof/blob/main/iconlist/Shards.md
-
-## Simulacra.md
+## アバター
 https://github.com/banx-jp/tof/blob/main/iconlist/Simulacra.md
 
-## Weapons.md
-
+## 武器
 https://github.com/banx-jp/tof/blob/main/iconlist/Weapons.md
+
+## 装備
+https://github.com/banx-jp/tof/blob/main/iconlist/Equipment.md
+
+## アルケー
+https://github.com/banx-jp/tof/blob/main/iconlist/Shards.md
+
+
