@@ -10,7 +10,7 @@ https://github.com/banx-jp/tof/blob/main/iconlist/Equipment.md
 https://github.com/banx-jp/tof/blob/main/iconlist/Shards.md
 
 ## Simulacra.md
-https://github.com/banx-jp/tof/blob/main/Siconlist/imulacra.md
+https://github.com/banx-jp/tof/blob/main/iconlist/Simulacra.md
 
 ## Weapons.md
 
