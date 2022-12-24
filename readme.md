@@ -1,6 +1,11 @@
 # URL
 https://banx-jp.github.io/tof/index.html
 
+# Wiki
+
+## ワールドボス
+https://github.com/banx-jp/tof/blob/main/wiki/WorldBoss.md
+
 # アイコンリスト
 
 ## アバター
