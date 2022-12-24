@@ -24,3 +24,6 @@
 
 # アーシャ大陸 - 人工島
 ![アーシャ大陸 - 人工島](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Artificial.png)
+
+# ヴェラ
+![ヴェラ](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Veral.png)
