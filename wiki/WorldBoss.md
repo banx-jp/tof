@@ -23,4 +23,4 @@
 ![アーシャ大陸](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Aesperia.png)
 
 # アーシャ大陸 - 人工島
-![アーシャ大陸 - 人工島](![アーシャ大陸](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Artificial.png))
+![アーシャ大陸 - 人工島](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Artificial.png)
