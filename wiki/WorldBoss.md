@@ -27,3 +27,9 @@
 
 # ヴェラ
 ![ヴェラ](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Veral.png)
+
+# 秩序なきアビス2層
+![秩序なきアビス2層](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Confounding.png)
+
+# 秩序なきアビス3層
+![秩序なきアビス3層](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_ThirdCity.png)
