@@ -1,4 +1,4 @@
-# 公式情報
+# 公式画像
 
 ## おすすめ編成 - 凛夜
 ![Official](https://github.com/banx-jp/tof/blob/main/img/RecommendedOrganization_Shadoweave1.png)
