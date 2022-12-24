@@ -17,3 +17,10 @@
 
 * TⅢ：チップⅢ型
 * PⅢ：パスキーⅢ型
+
+# アーシャ大陸
+
+![アーシャ大陸](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Aesperia.png)
+
+# アーシャ大陸 - 人工島
+![アーシャ大陸 - 人工島](![アーシャ大陸](https://github.com/banx-jp/tof/blob/main/img/WorldBossMap_Artificial.png))
