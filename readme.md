@@ -7,7 +7,7 @@ https://banx-jp.github.io/tof/index.html
 ## Wiki
 
 ### 攻略
-https://github.com/banx-jp/tof/blob/main/wiki/Infomation.md
+https://github.com/banx-jp/tof/blob/main/wiki/Cheats.md
 
 ### ワールドボス
 https://github.com/banx-jp/tof/blob/main/wiki/WorldBoss.md
