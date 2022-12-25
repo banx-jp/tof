@@ -20,7 +20,6 @@ https://banx-jp.github.io/tof/index.html
 | 限定武器＆ボリション | https://github.com/banx-jp/tof/blob/main/wiki/Limited_Wepons.md |
 | 武器 | https://github.com/banx-jp/tof/blob/main/wiki/Wepons.md |
 | ボリション | https://github.com/banx-jp/tof/blob/main/wiki/Matrix.md |
-| 料理 | https://github.com/banx-jp/tof/blob/main/wiki/Cooking.md |
 | 公式画像 | https://github.com/banx-jp/tof/blob/main/wiki/Official.md |
 |  |  |
 
