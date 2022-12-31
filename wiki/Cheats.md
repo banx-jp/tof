@@ -36,15 +36,15 @@
 |  |  |  |
 
 ## 連合作戦
-| ダンジョン | 日 | 月 | 火 | 水 | 木 | 金 | 土 | 報酬(装備) | 報酬(ボリ) |
+| ダンジョン | 日 | 月 | 火 | 水 | 木 | 金 | 土 | 報酬(装備) | 報酬(ボリション) |
 | --- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | --- | --- |
-| 時空訓練場 | 〇 |  |  |  |  | 〇 |  | バンブレス、アーマー | シューマー、セミール |
-| 深海基地 |  |  | 〇 |  |  |  | 〇 |  |  |
-| 深海訓練所 | 〇 |  |  |  | 〇 |  |  |  |
-| 隔離区域 |  | 〇 |  |  |  | 〇 |  |  |
-| ハイエナアリーナ | 〇 |  |  | 〇 |  |  |  |  |
-| ロストバレー | 〇 |  | 〇 |  | 〇 |  | 〇 |  |  |
-| 最終公演 | 〇 | 〇 |  | 〇 |  | 〇 |  |  |  |
+| 時空訓練場 | 〇 |  |  |  |  | 〇 |  | バンブレス、アーマー | ![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Huma_small.png)![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Samir_small.png) |
+| 深海基地 |  |  | 〇 |  |  |  | 〇 |  | ![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_KING_small.png)![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Crow_small.png) |
+| 深海訓練所 | 〇 |  |  |  | 〇 |  |  |  | ![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Meryl_small.png)![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Zero_small.png) |
+| 隔離区域 |  | 〇 |  |  |  | 〇 |  |  | ![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Tsubasa_small.png)![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Shiro_small.png) |
+| ハイエナアリーナ | 〇 |  |  | 〇 |  |  |  |  | ![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Cocoritter_small.png)![Matrix](https://raw.githubusercontent.com/banx-jp/tof/main/tof_icon/Matrix/Icon_Matrix_Shiro_small.png) |
+| ロストバレー | 〇 |  | 〇 |  | 〇 |  | 〇 |  | ランダム |
+| 最終公演 | 〇 | 〇 |  | 〇 |  | 〇 |  |  | ランダム |
 
 * 全て「難易度-08」の報酬
 
